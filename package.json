@@ -1,5 +1,5 @@
 {
-  "name": "nodemodules",
+  "name": "greetingmessage",
   "version": "1.0.1",
   "description": "This module can be used to render a dynamic greeting string based on the time of the day",
   "main": "app.js",
