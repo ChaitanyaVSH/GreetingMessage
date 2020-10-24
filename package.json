@@ -1,0 +1,13 @@
+{
+  "name": "nodemodules",
+  "version": "1.0.0",
+  "description": "This module can be used to render a dynamic greeting string based on the time of the day",
+  "main": "app.js",
+  "keywords": [
+    "npm",
+    "greeting string",
+    "good morning"
+  ],
+  "author": "ChaitanyaVSH",
+  "license": "ISC"
+}
