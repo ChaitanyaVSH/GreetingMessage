@@ -16,7 +16,7 @@ const greetingMessage = () => {
     timeNow = "Night";
   }
 
-  console.log("Good " + timeNow);
+  // console.log("Good " + timeNow);
   return timeNow;
 };
 
