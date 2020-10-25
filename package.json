@@ -1,6 +1,6 @@
 {
   "name": "greetingmessage",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This module can be used to render a dynamic greeting string based on the time of the day",
   "main": "app.js",
   "keywords": [
